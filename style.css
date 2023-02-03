@@ -169,7 +169,8 @@ fieldset legend {
 .input-wrapper select {
   background: #fafafc;
 
-  border: 1px solid #e6e6f0;
+  border: 1px solid #39393f;
+
   border-radius: 8px;
 
   height: 56px;
